@@ -2,7 +2,8 @@
     "name": "turtle-asset2",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Turtle Logo": "github:Mr-Coxall/turtle-logo#v0.2.3"
     },
     "files": [
         "main.blocks",
